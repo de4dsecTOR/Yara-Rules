@@ -12,8 +12,6 @@ This repository contains a collection of custom YARA rules created to detect mal
 - Identifying malware families by signatures.
 - Detecting obfuscated code and malicious behaviors.
 
-### Tools Used
-
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
